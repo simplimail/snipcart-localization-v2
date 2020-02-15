@@ -1,4 +1,4 @@
-Snipcart.execute('registerLocale', 'en', {
+Snipcart.execute('registerLocale', 'ro', {
 yes:
 "Da",
 no:
@@ -108,7 +108,7 @@ payment_informations_bill_me_later:
 payment_informations_no_payment_required:
 "Plata nu e necesară",
 payment_informations_paypalexpress:
-"Plata prin Paypal",
+"Plata prin PayPal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
